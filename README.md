@@ -17,3 +17,13 @@ $ npm install -D tailwindcss\nnpx tailwindcss init
 
 $ npm start
 ```
+
+```bash
+$ mkdir src/types
+$ touch src/types/index.ts
+$ mkdir src/store
+$ touch src/store/index.ts
+$ mkdir src/components
+$ touch src/components/Auth.tsx src/components/Todo.tsx
+$ npm start
+```
