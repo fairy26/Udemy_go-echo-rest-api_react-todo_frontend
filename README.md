@@ -27,3 +27,13 @@ $ mkdir src/components
 $ touch src/components/Auth.tsx src/components/Todo.tsx
 $ npm start
 ```
+
+# Components
+
+## Auth
+
+```bash
+$ mkdir src/hooks
+$ touch src/hooks/useError.ts
+$ touch src/hooks/useMutateAuth.ts
+```
