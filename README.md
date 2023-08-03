@@ -37,3 +37,11 @@ $ mkdir src/hooks
 $ touch src/hooks/useError.ts
 $ touch src/hooks/useMutateAuth.ts
 ```
+
+## Todo task
+
+```bash
+$ touch src/hooks/useQueryTasks.ts
+$ touch src/hooks/useMutateTask.ts
+$ touch src/components/TaskItem.tsx
+```
